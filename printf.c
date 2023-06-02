@@ -10,9 +10,6 @@ Your function must be declared as follows:
 
 int ft_printf(const char *, ... );
 
-Before you start we advise you to read the `man 3 printf` and the `man va_arg`.
-To test your program compare your results with the true printf.
-
 Exemples of the function output:
 
 call: ft_printf("%s\n", "toto");
